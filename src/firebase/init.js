@@ -3,12 +3,12 @@ import firestore from 'firebase/firestore'
 
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyA2GPWuCln0BcNHWnI5zQDD0xJNE2KNwzM",
+  apiKey: "가림",
   authDomain: "local-comment.firebaseapp.com",
   databaseURL: "https://local-comment.firebaseio.com",
   projectId: "local-comment",
   storageBucket: "local-comment.appspot.com",
-  messagingSenderId: "256360370884"
+  messagingSenderId: "가림"
  };
 
 const firebaseApp = firebase.initializeApp(config);
