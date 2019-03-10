@@ -1,6 +1,6 @@
 # local-comment
 
-> A Vue.js project
+local-comment.firebaseapp.com // 호스팅주소
 
 ## Build Setup
 
